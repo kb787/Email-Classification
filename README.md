@@ -1,2 +1,2 @@
 # Email-Classification
-This repository is about classifying an email as spam or ham using two algorithms :- Logistic Regression and Decision Tree Resgressor lets see by implementing which model is better for our dataset
+This repository is about classifying an email as spam or ham using two algorithms :- Logistic Regression and Decision Tree Regressor. This involves the usage of random sampling, holdout and evaluation of performance by Mean Squared Error 
